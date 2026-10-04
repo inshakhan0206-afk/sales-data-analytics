@@ -65,3 +65,10 @@ Monthly sales are analyzed and visualized using a line chart.
 - Laptop is the top-selling product.
 - North is the highest-performing region.
 - January has the highest monthly sales in the current dataset.
+
+- ## 🚀 How to Run
+
+1. Clone this repository.
+2. Install the required Python libraries.
+3. Run analysis.py.
+4. View the generated visualizations in the charts folder.
