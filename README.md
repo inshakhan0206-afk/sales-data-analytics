@@ -52,15 +52,15 @@ Monthly sales are analyzed and visualized using a line chart.
 
 ### Sales by Product
 
-![Sales by Product](charts/sales_by_product.png)
+<img src="charts/sales_by_product.png" alt="Sales by Product">
 
 ### Sales by Region
 
-![Sales by Region](charts/sales_by_region.png)
+<img src="charts/sales_by_region.png" alt="Sales by Region">
 
 ### Sales by Month
 
-![Sales by Month](charts/sales_by_month.png)
+<img src="charts/sales_by_month.png" alt="Sales by Month">
 
 ## 💡 Key Insights
 
