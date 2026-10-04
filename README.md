@@ -33,3 +33,37 @@ sales-data-analytics/
     ├── sales_by_product.png
     ├── sales_by_region.png
     └── sales_by_month.png
+
+## 🔍 Analysis Performed
+
+### 1. Sales by Product
+
+The project calculates total sales for each product and identifies the top-selling product.
+
+### 2. Sales by Region
+
+Sales are grouped by region to identify the region with the highest sales.
+
+### 3. Sales by Month
+
+Monthly sales are analyzed and visualized using a line chart.
+
+## 📊 Visualizations
+
+### Sales by Product
+
+![Sales by Product](charts/sales_by_product.png)
+
+### Sales by Region
+
+![Sales by Region](charts/sales_by_region.png)
+
+### Sales by Month
+
+![Sales by Month](charts/sales_by_month.png)
+
+## 💡 Key Insights
+
+- Laptop is the top-selling product.
+- North is the highest-performing region.
+- January has the highest monthly sales in the current dataset.
