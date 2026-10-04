@@ -33,6 +33,7 @@ sales-data-analytics/
     ├── sales_by_product.png
     ├── sales_by_region.png
     └── sales_by_month.png
+```
 
 ## 🔍 Analysis Performed
 
@@ -51,13 +52,13 @@ Monthly sales are analyzed and visualized using a line chart.
 ## 📊 Visualizations
 
 ### Sales by Product
-![Sales by Product](https://github.com/inshakhan0206-afk/sales-data-analytics/blob/80130fed2743e10258b42a85c42816bc25c83971/charts/sales_by_product.png?raw=true)
+![Sales by Product](./charts/sales_by_product.png)
 
 ### Sales by Region
-![Sales by Region](https://github.com/inshakhan0206-afk/sales-data-analytics/blob/80130fed2743e10258b42a85c42816bc25c83971/charts/sales_by_region.png?raw=true)
+![Sales by Region](./charts/sales_by_region.png)
 
 ### Sales by Month
-![Sales by Month](https://github.com/inshakhan0206-afk/sales-data-analytics/blob/80130fed2743e10258b42a85c42816bc25c83971/charts/sales_by_month.png?raw=true)
+![Sales by Month](./charts/sales_by_month.png)
 
 ## 💡 Key Insights
 
